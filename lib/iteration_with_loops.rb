@@ -14,4 +14,5 @@ while count < src.length.do
   end
   new_array % 2
   binding.pry
+  p new_array 
 end
