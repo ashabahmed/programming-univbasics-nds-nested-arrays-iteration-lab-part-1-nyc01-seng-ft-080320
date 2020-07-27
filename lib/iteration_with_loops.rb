@@ -13,4 +13,5 @@ while count < src.length.do
     count += 1
   end
   new_array % 2
+  binding.pry
 end
