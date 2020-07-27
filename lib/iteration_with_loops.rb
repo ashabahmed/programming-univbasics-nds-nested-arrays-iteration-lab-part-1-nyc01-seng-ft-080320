@@ -7,6 +7,10 @@ new_array = []
 while count < src.length.do
   inner_count = 0 
   while inner_count < src[count].length do
-    
-    
+    new_array << src[count][inner_count]
+    inner_count +=
+  end
+    count +=
+  end
+  new_array % 2
 end
